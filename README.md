@@ -24,23 +24,18 @@ This project was created to practice Python programming, event handling, and bas
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/username/snake-game.git
+   git clone https://github.com/Msalam/Snake-Game-Python.git
    ```
 
 2. Navigate to the project directory:  
    ```bash
-   cd snake-game
+   cd Snake-Game-Python
    ```
 
 3. Run the game script:  
    ```bash
-   python snake_game.py
+   python snake game.py
    ```
-
----
-
-## 📸 Screenshots  
-*(Add screenshots here for better presentation, e.g. gameplay and game over screen)*  
 
 ---
 
@@ -53,5 +48,5 @@ This project was created to practice Python programming, event handling, and bas
 ---
 
 ## 🧑‍💻 Author  
-Developed by **[Your Name]**  
-📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
+Developed by **[Mohamed Sallam]**  
+📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-sallam-1526661ba)  
