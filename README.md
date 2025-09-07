@@ -1,2 +1,57 @@
-# Snake-Game-Python
-Python Turtle Snake Game: A simple Snake game in Python using the turtle module. Features smooth snake movement with tail growth, random food, collision detection, scoring system, and arrow key control. A fun project to practice Python, event handling, and game logic.
+# 🐍 Python Turtle Snake Game  
+
+A simple Snake game implemented in **Python** using the `turtle` module.  
+This project was created to practice Python programming, event handling, and basic game logic.  
+
+---
+
+## 🎮 Features  
+- ✅ Smooth snake movement with tail growth  
+- ✅ Food spawning at random positions  
+- ✅ Collision detection with walls and snake body  
+- ✅ Scoring system displayed on screen  
+- ✅ User-controlled via arrow keys  
+
+---
+
+## 🛠️ Technologies Used  
+- **Python 3**  
+- **Turtle graphics module** (comes pre-installed with Python)  
+
+---
+
+## 🚀 How to Run  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/username/snake-game.git
+   ```
+
+2. Navigate to the project directory:  
+   ```bash
+   cd snake-game
+   ```
+
+3. Run the game script:  
+   ```bash
+   python snake_game.py
+   ```
+
+---
+
+## 📸 Screenshots  
+*(Add screenshots here for better presentation, e.g. gameplay and game over screen)*  
+
+---
+
+## 📝 Future Improvements  
+- Add difficulty levels (easy, medium, hard)  
+- Add sound effects when snake eats food or game over  
+- Create a main menu screen  
+- Store high scores  
+
+---
+
+## 🧑‍💻 Author  
+Developed by **[Your Name]**  
+📌 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
